@@ -1,27 +1,27 @@
-.corpodosite{
-    color:white
+.corpodosite {
+    color: white
 }
 
 
 
-.cabecalho{
-    background-image: linear-gradient(black,gray);
+.cabecalho {
+    background-image: linear-gradient(black, gray);
     color: azure;
     display: flex;
-    padding: 24px 0;
     font-size: 50px;
+    justify-content: space-around;
 }
 
-.section1{
-    background-image: linear-gradient(gray,rgb(72, 72, 72));
+.section1 {
+    background-image: linear-gradient(gray, rgb(72, 72, 72));
     padding: 230px;
     display: flex;
     color: azure;
     font-size: 50px;
 }
 
-.section2{
-    background-image: linear-gradient(rgb(72, 72, 72),rgb(0, 0, 0));
+.section2 {
+    background-image: linear-gradient(rgb(72, 72, 72), rgb(0, 0, 0));
     padding: 230px;
     display: flex;
     color: azure;
@@ -29,13 +29,21 @@
 }
 
 
-.rodape{
+.rodape {
     background-color: black;
-    color:white
+    color: white
 }
 
 .corinthia {
     padding: 35px;
     width: 755px;
     display: flex;
+}
+
+.romero {
+    padding-right: 100px;
+}
+
+.metralha {
+    padding-right: 100px;
 }
