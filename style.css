@@ -25,5 +25,6 @@
 }
 
 .corinthia {
-    width: 5px;
+    padding: 20px;
+    display: flex;
 }
